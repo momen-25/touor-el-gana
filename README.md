@@ -1,2 +1,7 @@
-# touor-el-gana
-repo for nursery app 
+Hello!
+
+You need to run:
+
+meteor npm install 
+
+before you can launch the app.
